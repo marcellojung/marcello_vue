@@ -1,7 +1,7 @@
 <script setup>
 import CardList from './components/CardList.vue';
 import NavBar from './components/NavBar.vue';
-// This starter template is using Vue 3 <script setup> SFCs
+// This starter0 template is using Vue 3 <script setup> SFCs
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
 // import HelloWorld from './components/HelloWorld.vue'
 
