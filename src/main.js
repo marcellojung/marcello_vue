@@ -17,7 +17,7 @@ const routes = [
     { path : '/user/:id', component : UserDetail, name: 'userdetail', props: true},
 ]
 const router = createRouter({
-    history : createWebHistory(),
+    history : createWebHistory('/marcello_vue/'),
     routes
 })
 
